@@ -1,0 +1,15 @@
+.blog {
+    align-items: center;
+    gap: 3rem;
+}
+
+.posts {
+    gap: 3rem;
+    width: auto;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.post {
+    font-size: 2rem;
+}

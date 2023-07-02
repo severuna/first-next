@@ -1,0 +1,25 @@
+.post-details {
+    border: 1px solid var(--yellow);
+    background-color: var(--black);
+    border-radius: 1rem;
+    max-width: 100rem;
+    min-width: 10rem;
+    width: 100%;
+}
+
+.post-title {
+    width: 100%;
+    text-align: center;
+    background-color: var(--yellow);
+    padding: 1rem;
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    font-weight: 900;
+    word-spacing: 1rem;
+}
+
+.post-body {
+    font-size: 2rem;
+    padding: 3rem;
+    color: var(--white);
+}
