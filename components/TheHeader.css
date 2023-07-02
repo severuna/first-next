@@ -8,7 +8,14 @@
 }
 
 .header-item {
-    font-size: 3rem;
+    font-size: 2rem;
+    color: var(--white);
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+.active {
+    font-size: 2rem;
     color: var(--yellow);
     font-weight: 900;
     text-transform: uppercase;
